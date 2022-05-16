@@ -156,7 +156,6 @@
   "http.proxyAuthorization": null,
   "http.proxyStrictSSL": true,
   "http.proxySupport": "on",
-  "http.proxy": "http://43726868:Kakademona48#@uk-proxy-01.systems.uk.hsbc:80/",
   "workbench.productIconTheme": "developer-icons",
   "redhat.telemetry.enabled": false,
   "security.workspace.trust.untrustedFiles": "open",
